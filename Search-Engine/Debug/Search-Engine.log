@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\khmka\source\repos\search-engine\search-engine\page.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\khmka\source\repos\search-engine\search-engine\page.h(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\khmka\source\repos\search-engine\search-engine\rank.h(28): warning C4018: '<': signed/unsigned mismatch
+  Search-Engine.vcxproj -> C:\Users\khmka\source\repos\Search-Engine\Debug\Search-Engine.exe
